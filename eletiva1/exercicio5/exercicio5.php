@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 5</title>
+</head>
+<body>
+    <h1>Conversão Celsius para Fahrenheit</h1>
+    <form method="post" action="resposta5.php">
+        <label for="celsius">Informe a temperatura em Celsius: </label>
+        <input type="number" id="celsius" name="celsius">
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>

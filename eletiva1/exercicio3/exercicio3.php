@@ -6,7 +6,7 @@
     <title>Exercício 3</title>
 </head>
 <body>
-    <h1>Exercício de Exemplo</h1>
+    <h1>Multiplicação de Dois Valores</h1>
     <form method="post" action="resposta3.php">
         <label for="valor1">Informe o primeiro valor: </label>
         <input type="number" id="valor1" name="valor1">
