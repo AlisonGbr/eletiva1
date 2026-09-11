@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividades de Eletiva</title>
+</head>
+<body>
+    <p>Ano: 2025</p>
+    <p>Ano: <?php echo date("Y"); ?></p>
+    <p><a href="exercicio1/exercicio1.php">Exercicio 1</a></p>
+</body>
+</html>
