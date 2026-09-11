@@ -26,5 +26,6 @@
     <p><a href="exercicio16/exercicio16.php">Exercicio 16</a></p>
     <p><a href="exercicio17/exercicio17.php">Exercicio 17</a></p>
     <p><a href="exercicio18/exercicio18.php">Exercicio 18</a></p>
+    <p><a href="exercicio19/exercicio19.php">Exercicio 19</a></p>
 </body>
 </html>
