@@ -9,5 +9,6 @@
     <p>Ano: 2025</p>
     <p>Ano: <?php echo date("Y"); ?></p>
     <p><a href="exercicio1/exercicio1.php">Exercicio 1</a></p>
+    <p><a href="exercicio2/exercicio2.php">Exercicio 2</a></p>
 </body>
 </html>
