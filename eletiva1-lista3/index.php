@@ -11,5 +11,6 @@
     <p><a href="exercicio1/exercicio1.php">Exercicio 1</a></p>
     <p><a href="exercicio2/exercicio2.php">Exercicio 2</a></p>
     <p><a href="exercicio3/exercicio3.php">Exercicio 3</a></p>
+    <p><a href="exercicio4/exercicio4.php">Exercicio 4</a></p>
 </body>
 </html>
